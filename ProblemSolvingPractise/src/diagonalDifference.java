@@ -6,7 +6,7 @@ import java.util.List;
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.09.2020
- *
+ * <p>
  * https://www.hackerrank.com/challenges/diagonal-difference?h_r=profile
  */
 
@@ -25,12 +25,10 @@ public class diagonalDifference {
             schwerediagionale = schwerediagionale + arr.get(i).get((arr.size() - 1) - i);
         }
 
-
         result = einfachediagionale - schwerediagionale;
         if (result < 1) {
             result = schwerediagionale - einfachediagionale;
         }
-
         return result;
     }
 }

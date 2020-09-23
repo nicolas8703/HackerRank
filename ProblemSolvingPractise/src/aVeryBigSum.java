@@ -4,7 +4,7 @@
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.9.2020
- *
+ * <p>
  * https://www.hackerrank.com/challenges/a-very-big-sum?h_r=profile
  */
 

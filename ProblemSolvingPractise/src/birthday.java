@@ -6,7 +6,7 @@ import java.util.List;
  * @author Nicolas Feige
  * @version 1.0
  * @date 23.09.2020
- *
+ * <p>
  * https://www.hackerrank.com/challenges/the-birthday-bar/problem
  */
 
@@ -18,7 +18,7 @@ public class birthday {
         int count = 0;
         int startSize = s.size();
         for (int j = 0; j < startSize; j++) {
-            if(m <= s.size()) {
+            if (m <= s.size()) {
                 for (int i = 0; i < m; i++) {
                     plus = plus + s.get(i);
                 }

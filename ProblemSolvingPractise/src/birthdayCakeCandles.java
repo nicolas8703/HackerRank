@@ -7,7 +7,7 @@ import java.util.List;
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.09.2020
- *
+ * <p>
  * https://www.hackerrank.com/challenges/birthday-cake-candles?h_r=profile
  */
 
@@ -39,8 +39,6 @@ public class birthdayCakeCandles {
             candles.remove(candles.get(candles.size() - 1));
             finished++;
         }
-
-
         return finished;
     }
 }

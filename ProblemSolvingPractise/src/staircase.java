@@ -4,7 +4,7 @@
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.09.2020
- *
+ * <p>
  * https://www.hackerrank.com/challenges/staircase?h_r=profile
  */
 
