@@ -6,6 +6,8 @@ import java.util.List;
  * @author Nicolas Feige
  * @version 1.0
  * @date 23.9.2020
+ *
+ * https://www.hackerrank.com/challenges/grading/problem
  */
 
 

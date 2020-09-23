@@ -8,6 +8,8 @@ import java.util.List;
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.09.2020
+ *
+ * https://www.hackerrank.com/challenges/mini-max-sum?h_r=profile
  */
 
 

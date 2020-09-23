@@ -4,6 +4,8 @@
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.09.2020
+ *
+ * https://www.hackerrank.com/challenges/plus-minus?h_r=profile
  */
 
 

@@ -7,6 +7,8 @@ import java.util.List;
  * @author Nicolas Feige
  * @version 1.0
  * @date 22.9.2020
+ *
+ * https://www.hackerrank.com/challenges/compare-the-triplets?h_r=profile
  */
 
 
